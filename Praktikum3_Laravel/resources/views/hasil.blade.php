@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hasil Laporan Angkot</title>
+    <title>Hasil Laporan Ngangkot</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Data Laporan Angkot</h2>
+        <h2>Data Laporan Ngangkot</h2>
         <p><strong>Nama Pelapor:</strong> {{ $nama }}</p>
         <p><strong>Trayek Angkot:</strong> {{ $trayek }}</p>
         <p><strong>Nomor Angkot:</strong> {{ $nomor }}</p>
