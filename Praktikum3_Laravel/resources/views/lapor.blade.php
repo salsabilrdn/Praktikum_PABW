@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laporan Angkot Bandung</title>
+    <title>Laporan Ngangkot</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Form Laporan Angkot Bandung</h2>
+        <h2>Form Laporan Ngangkot</h2>
         <form action="/proses" method="POST">
             @csrf
             <label for="nama">Nama Pelapor:</label>
